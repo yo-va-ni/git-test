@@ -1,0 +1,4 @@
+hello
+world (second line)
+idk git (third line)
+there's another file
